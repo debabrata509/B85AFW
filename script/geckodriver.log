@@ -1,0 +1,16 @@
+1694658264657	geckodriver	INFO	Listening on 127.0.0.1:57457
+1694658265115	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/qz4xghzj7tz02fq0kjtpmvbm0000gn/T/rust_mozprofilejMKtfj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694658265457	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694658265601	Marionette	INFO	Listening on port 57470
+WebDriver BiDi listening on ws://127.0.0.1:57458
+Read port: 57470
+1694658265756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57458/devtools/browser/4595080b-64bb-4418-b15f-8a06a9c0b3c6
+1694658272414	Marionette	INFO	Stopped listening on port 57470
+JavaScript warning: https://aksharatraining.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0, line 2: Script terminated by timeout at:
+i@https://aksharatraining.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0:2:86672
+
